@@ -16,6 +16,29 @@ A powerful AI chatbot built using **LangChain**, **Google Gemini**, **Instructor
 
 ---
 
+## 💬 Chatbot in Action (Multiple Questions)
+
+
+![Q1](images/chat_q1.png)
+
+---
+
+
+![Q2](images/chat_q2.png)
+
+---
+
+
+![Q3](images/chat_q3.png)
+
+---
+
+
+![Q3](images/chat_q4.png)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 | Component            | Tool                                      |
@@ -48,7 +71,7 @@ A powerful AI chatbot built using **LangChain**, **Google Gemini**, **Instructor
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hendrix-04/-Gemini-FAQ-Bot-AI-Powered-Course-Assistant
+git clone https://github.com/hendrix-04/Gemini-FAQ-Bot-AI-Powered-Course-Assistant
 cd gemini-faq-bot
 ```
 
